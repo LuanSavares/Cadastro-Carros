@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\bin\Debug\net5.0\DIO.Carros.exe
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\bin\Debug\net5.0\DIO.Carros.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\bin\Debug\net5.0\DIO.Carros.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\bin\Debug\net5.0\DIO.Carros.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\bin\Debug\net5.0\DIO.Carros.dll
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\bin\Debug\net5.0\ref\DIO.Carros.dll
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\bin\Debug\net5.0\DIO.Carros.pdb
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\obj\Debug\net5.0\DIO.Carros.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\obj\Debug\net5.0\DIO.Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\obj\Debug\net5.0\DIO.Carros.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\obj\Debug\net5.0\DIO.Carros.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\obj\Debug\net5.0\DIO.Carros.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\obj\Debug\net5.0\DIO.Carros.dll
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\obj\Debug\net5.0\ref\DIO.Carros.dll
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\obj\Debug\net5.0\DIO.Carros.pdb
+C:\Users\User\OneDrive\Área de Trabalho\DIO.Carros\obj\Debug\net5.0\DIO.Carros.genruntimeconfig.cache
